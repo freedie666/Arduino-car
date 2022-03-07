@@ -31,9 +31,9 @@ Project was created at BUT-FIT
 > - Motors are controlled by motor driver LV8406 using PWM
 > - Lines are detected by infrared emiting LED and phototransistor [3x LED and 4x phototransistors]
 > - Speed and directions are controlled by P-regulator
-> - Obstacles are detectedd with ultrasonic sensor HC-sr04 
-> - Ultrasonic sensor is mounted on small servo, providing range of detection to +-90° 
-> - Cargo bed which movement is provided by stepper motor 2BYJ-48
+> - Obstacles are detected with ultrasonic sensor HC-SR04 
+> - Ultrasonic sensor is mounted on small servo, providing range of detection up to +-90° 
+> - Cargo beds movement is provided by stepper motor 2BYJ-48
 > - Blue and RED LEDs are controlled by WS2818B led driver
 > - Buzzer can play All star song which is stored in Flash memory
 
