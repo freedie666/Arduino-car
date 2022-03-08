@@ -42,9 +42,10 @@ Project was created at BUT-FIT
 > - Everything electical is soldered at custom made PCB which fits onto Arduino as Arduino shield
 > - Song is stacked in memory in a way to save as much memory as possible [4 numbers in one unsigned short]
   
-Viac na: https://drive.google.com/drive/folders/1pzaO6EnN3uHb_-Xj_Ckr5q-n50d8h_We?usp=sharing
+## Links 
+Demonstration of car at [Youtube](https://www.youtube.com/watch?v=gtERXzQzxGM)
 
-
+More photos and videos at [Google Drive](https://drive.google.com/drive/folders/1pzaO6EnN3uHb_-Xj_Ckr5q-n50d8h_We?usp=sharing)
 
 
 
